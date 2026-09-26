@@ -1,0 +1,10 @@
+__pycache__/
+*.pth
+
+picture/
+
+test.py
+
+オートエンコーダシステム要件.xlsx
+
+.vscode/
